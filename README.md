@@ -1,4 +1,4 @@
-# ufo-lander
+# UFO Lander
 Homework #5
 
 P5 PROJECT LINK:
